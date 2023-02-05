@@ -1,0 +1,65 @@
+nav ul{
+    display: block;
+    width: 100%;
+}
+
+nav ul li{
+    /* Set display, margin, padding, font-size, background-color */
+    display: inline-block;
+    width: 24.5%;
+    font-size: 20px;
+    background: #000;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+nav li.current{
+    /* Set text decoration, transformation, and underline properties */
+    text-decoration: underline;
+    background-color: blue;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+    font-family: 'Trocchi', serif;
+    font-size:80px;
+    color:brown;
+    background-image: url(/images/women.jpeg);
+}
+
+.first-img{
+    display: block;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p{
+    line-height: 1.5;
+}
+main div{
+    border: dashed 3px black;
+    padding: 5px;
+    font-family:"Open Sans", Arial, Helvetica, Sans-serif;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+footer p{
+    font-size: 20px; 
+}
+
