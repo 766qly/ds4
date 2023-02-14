@@ -37,7 +37,7 @@ h1{
     font-family: 'Trocchi', serif;
     font-size:80px;
     color:brown;
-    background-image: url(/images/women.jpeg);
+    background-image: url(../images/women.jpeg);
 }
 
 .first-img{
