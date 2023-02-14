@@ -24,6 +24,13 @@ nav li.current{
     text-decoration: underline;
     background-color: blue;
 }
+img{
+    width: 45%;
+    padding: 20px;
+    margin: 5px 10px 20px 15px;
+    border: solid lightgoldenrodyellow 10px;
+}
+
 h1{
     margin: 10px;
     text-align: center;
@@ -60,6 +67,6 @@ h2{
 }
 
 footer p{
-    font-size: 20px; 
+    font-size: 20px;
 }
 
